@@ -5,7 +5,7 @@ int main()
 {
  double x,y; 
  scanf("%lf %lf",&x,&y);
- res=sum();
+ res=sum(x,y);
  printf("%lf",res);
 }
     
